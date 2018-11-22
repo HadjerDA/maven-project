@@ -10,6 +10,7 @@
   <name>Maven Project</name>
   <description>Sample Maven project</description>
   <url>http://www.formation.com</url>
+         
 
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
